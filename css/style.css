@@ -6,3 +6,16 @@ html {
     width: 20px;
     height: 60px;
 }
+
+.nav-item {
+    margin: 0 15px;
+}
+
+h3 {
+    text-align: center;
+}
+
+Title {
+    display: block;
+
+  }
